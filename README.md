@@ -4,6 +4,7 @@
 Template repo for the my-weblog-space-project winter 2023/24. Move your files here and we will deploy them to the web.
 
 ---
+hello
 
 This repo contains already some files and folders that should stay here for configuration
 
